@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29742" started-at="2020-06-08T15:09:15Z" finished-at="2020-06-08T15:09:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29742" started-at="2020-06-08T15:09:15Z" finished-at="2020-06-08T15:09:45Z">
+      <class name="FlightBookingTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:FlightBookingTest@724af044]" name="beforeMethod" is-config="true" duration-ms="2020" started-at="2020-06-08T20:39:15Z" finished-at="2020-06-08T20:39:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testThatResultsAppearForAOneWayJourney()[pri:0, instance:FlightBookingTest@724af044]" name="testThatResultsAppearForAOneWayJourney" duration-ms="27708" started-at="2020-06-08T20:39:17Z" finished-at="2020-06-08T20:39:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThatResultsAppearForAOneWayJourney -->
+      </class> <!-- FlightBookingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
